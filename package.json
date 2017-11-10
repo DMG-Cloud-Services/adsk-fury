@@ -1,14 +1,14 @@
 {
-  "name": "fury",
+  "name": "dmg-fury",
   "description": "API Description SDK",
-  "version": "3.0.0-beta.5",
+  "version": "3.0.0",
   "author": "Apiary.io <support@apiary.io>",
   "main": "./lib/fury.js",
   "browser": "./src/fury.js",
   "module": "./src/fury.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:apiaryio/fury.git"
+    "url": "https://github.com/DMG-Cloud-Services/dmg-fury.js"
   },
   "engines": {
     "node": ">=4"
