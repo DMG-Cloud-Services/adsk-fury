@@ -1,5 +1,5 @@
 {
-  "name": "dmg-fury",
+  "name": "adsk-fury",
   "description": "API Description SDK",
   "version": "3.0.0",
   "author": "Apiary.io <support@apiary.io>",
@@ -8,7 +8,7 @@
   "module": "./src/fury.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DMG-Cloud-Services/dmg-fury.js"
+    "url": "https://github.com/DMG-Cloud-Services/adsk-fury"
   },
   "engines": {
     "node": ">=4"
